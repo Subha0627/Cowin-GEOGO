@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/cowin-geogo/static/css/main.614999d6.chunk.css",
+    "main.js": "/cowin-geogo/static/js/main.f8436551.chunk.js",
+    "main.js.map": "/cowin-geogo/static/js/main.f8436551.chunk.js.map",
+    "runtime-main.js": "/cowin-geogo/static/js/runtime-main.1ed5f18f.js",
+    "runtime-main.js.map": "/cowin-geogo/static/js/runtime-main.1ed5f18f.js.map",
+    "static/css/2.aa079ef7.chunk.css": "/cowin-geogo/static/css/2.aa079ef7.chunk.css",
+    "static/js/2.f6b27606.chunk.js": "/cowin-geogo/static/js/2.f6b27606.chunk.js",
+    "static/js/2.f6b27606.chunk.js.map": "/cowin-geogo/static/js/2.f6b27606.chunk.js.map",
+    "static/js/3.2f3e615e.chunk.js": "/cowin-geogo/static/js/3.2f3e615e.chunk.js",
+    "static/js/3.2f3e615e.chunk.js.map": "/cowin-geogo/static/js/3.2f3e615e.chunk.js.map",
+    "index.html": "/cowin-geogo/index.html",
+    "static/css/2.aa079ef7.chunk.css.map": "/cowin-geogo/static/css/2.aa079ef7.chunk.css.map",
+    "static/css/main.614999d6.chunk.css.map": "/cowin-geogo/static/css/main.614999d6.chunk.css.map",
+    "static/js/2.f6b27606.chunk.js.LICENSE.txt": "/cowin-geogo/static/js/2.f6b27606.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ed5f18f.js",
+    "static/css/2.aa079ef7.chunk.css",
+    "static/js/2.f6b27606.chunk.js",
+    "static/css/main.614999d6.chunk.css",
+    "static/js/main.f8436551.chunk.js"
+  ]
+}
